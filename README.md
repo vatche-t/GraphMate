@@ -1,4 +1,4 @@
-#GraphMate
+# GraphMate
 
 ## Introduction
 This project involves the analysis and visualization of spatial data using edge bundling techniques. The primary goal is to uncover patterns and relationships within the data and present them in an interpretable manner. The dataset is loaded from an Excel file containing information related to edge bundling.
