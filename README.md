@@ -147,3 +147,5 @@ plt.show()
    - The resulting edge bundling visualization is displayed.
 
 This section of the code integrates hierarchical clustering and edge bundling to provide a visual representation of clusters and their connections within the spatial dataset. The resulting graph enhances the understanding of spatial relationships and patterns.
+
+Last updated on: 2024-02-16
